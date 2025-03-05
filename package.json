@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@pinecone-database/pinecone": "^3.0.3",
+    "assemblyai": "^4.7.1",
+    "compute-cosine-similarity": "^1.1.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.67.3",
+    "uuid": "^10.0.0"
+  }
+}
