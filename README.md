@@ -2,9 +2,9 @@
 
 This is a study RAG model for the BIOL 1902 Natural History course. It uses lectures from Mike Runtz Natural History lectures at Carleton University as context.
 
-**_ This application was built as a proof-of-concept (dont mind the bad code haha) of the potential of RAG models for university courses to help students learn and study for exams. _**
+**This application was built as a proof-of-concept (dont mind the bad code haha) of the potential of RAG models for university courses to help students learn and study for exams.**
 
-This is not meant to be used for exams, but rather as a tool to help students learn and study for exams.
+This application is not meant to be used for exams, but rather as a tool to help students learn and study for exams.
 
 ## How to Use
 
