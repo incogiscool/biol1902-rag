@@ -20,4 +20,4 @@ OPENAI_API_KEY=<your_openai_api_key>
 5. Run the application with `node index.js`
 6. Input your question, then press enter, and then write `done` and enter to send the question.
 
-** Note: The `out` file is a JSON file containing the embeddings and chunks of the lectures. IT IS NOT INCLUDED IN THE REPOSITORY. This is because it is property of the instructor, and students enrolled in BIOL 1902.**
+**Note: The `out` file is a JSON file containing the embeddings and chunks of the lectures. IT IS NOT INCLUDED IN THE REPOSITORY. This is because it is property of the instructor, and students enrolled in BIOL 1902.**
